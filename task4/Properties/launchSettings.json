@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task4": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\2024\\ПерфомансЛаб\\For_Perfomance-Lab\\task4\\file.txt"
+    }
+  }
+}

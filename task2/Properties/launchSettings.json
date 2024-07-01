@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\2024\\ПерфомансЛаб\\For_Perfomance-Lab\\task2\\File1.json\r\n\r\nC:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\2024\\ПерфомансЛаб\\For_Perfomance-Lab\\task2\\File2.json"
+    }
+  }
+}

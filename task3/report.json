@@ -1,0 +1,94 @@
+{
+  "Tests": [
+    {
+      "Id": 2,
+      "Title": "Smoke test",
+      "Value": "passed",
+      "Values": null
+    },
+    {
+      "Id": 41,
+      "Title": "Debug test",
+      "Value": "passed",
+      "Values": null
+    },
+    {
+      "Id": 73,
+      "Title": "Performance test",
+      "Value": "passed",
+      "Values": [
+        {
+          "Id": 345,
+          "Title": "Maxperf",
+          "Value": "passed",
+          "Values": [
+            {
+              "Id": 230,
+              "Title": "Percent",
+              "Value": null,
+              "Values": [
+                {
+                  "Id": 234,
+                  "Title": "200",
+                  "Value": "passed",
+                  "Values": null
+                },
+                {
+                  "Id": 653,
+                  "Title": "300",
+                  "Value": "passed",
+                  "Values": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 110,
+          "Title": "Stability test",
+          "Value": "failed",
+          "Values": [
+            {
+              "Id": 261,
+              "Title": "Percent",
+              "Value": null,
+              "Values": [
+                {
+                  "Id": 238,
+                  "Title": "160",
+                  "Value": "passed",
+                  "Values": null
+                },
+                {
+                  "Id": 690,
+                  "Title": "240",
+                  "Value": "failed",
+                  "Values": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 122,
+      "Title": "Security test",
+      "Value": "failed",
+      "Values": [
+        {
+          "Id": 5321,
+          "Title": "Confidentiality",
+          "Value": "passed",
+          "Values": null
+        },
+        {
+          "Id": 5322,
+          "Title": "Integrity",
+          "Value": "failed",
+          "Values": null
+        }
+      ]
+    }
+  ]
+}

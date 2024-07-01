@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace task3
+{
+    internal class TestsFile
+    {
+        public List<Test> Tests { get; set; } = null!;
+    }
+}

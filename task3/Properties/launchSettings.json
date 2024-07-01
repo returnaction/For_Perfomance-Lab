@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task3": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\2024\\ПерфомансЛаб\\For_Perfomance-Lab\\task3\\values.json\r\n\r\nC:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\2024\\ПерфомансЛаб\\For_Perfomance-Lab\\task3\\tests.json\r\n\r\nC:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\2024\\ПерфомансЛаб\\For_Perfomance-Lab\\task3\\report.json"
+    }
+  }
+}
